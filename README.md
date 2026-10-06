@@ -54,6 +54,3 @@ This is a learning project. Passwords are stored in **plain text**, and `rand()`
 - Encrypt the saved file
 - Add a Qt graphical interface
 
-## License
-
-[Choose a license, e.g. MIT, or remove this section]
